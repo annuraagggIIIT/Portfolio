@@ -3,9 +3,7 @@
 \*-----------------------------------*/
 
 
-/**
- * copyright 2022 @codewithsadee
- */
+
 
 
 
@@ -25,9 +23,9 @@
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(240, 1%, 25%) 3%, 
-    hsl(0, 0%, 19%) 97%
-  );
+    hsl(0, 2%, 16%) 3%, 
+    hsl(0, 2%, 16%) 3%
+      );
   --bg-gradient-jet: linear-gradient(
     to bottom right, 
     hsla(240, 1%, 18%, 0.251) 0%, 
@@ -57,10 +55,10 @@
   /* solid */
 
   --jet: hsl(27, 66%, 33%);
-  --onyx: hsl(240, 1%, 17%);
-  --eerie-black-1: hsl(0, 0%, 15%);
-  --eerie-black-2: hsl(0, 1%, 19%);
-  --smoky-black: hsl(0, 2%, 9%);
+  --onyx: hsl(0, 2%, 11%);
+  --eerie-black-1: hsl(0, 2%, 12%);
+  --eerie-black-2: hsl(0, 2%, 16%);
+  --smoky-black: hsl(0, 0%, 9%);
   --white-1: hsl(0, 6%, 66%);
   --white-2: hsl(0, 7%, 73%);
   --orange-yellow-crayola:  hsl(29, 100%, 50%) ;
