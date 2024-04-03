@@ -527,6 +527,7 @@ main {
   border-radius: 14px;
   box-shadow: var(--shadow-2);
   z-index: 1;
+  color: var(--white-2);
 }
 
 .service-item::before {
@@ -552,7 +553,12 @@ main {
   font-weight: var(--fw-3);
   line-height: 1.6;
 }
-
+.heh{
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-3);
+  line-height: 1.6
+}
 
 /**
  * #testimonials 
